@@ -1,0 +1,16 @@
+[project]
+name = "masters-thesis-decoding"
+version = "1.0"
+description = "This project contains the code used in the masters thesis 'Cross-Participant Decoding of Emotions Conveyed by Nonverbal Emotional Vocalizations' written by Anton Rapprich"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "joblib>=1.5.3",
+    "matplotlib>=3.10.8",
+    "nibabel>=5.3.3",
+    "nilearn>=0.13.0",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "scikit-learn>=1.8.0",
+]

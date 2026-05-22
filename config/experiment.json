@@ -1,0 +1,22 @@
+[
+
+
+    {
+    "name": "Anger_vs_Disgust",
+    "labels_to_use": [
+        "#listen_disgust",
+        "#listen_anger"
+    ],
+    "radius": 8  
+},
+    {
+    "name": "Relief_vs_Awe",
+    "labels_to_use": [
+        "#listen_relief",
+        "#listen_awe"
+    ],
+    "radius": 8  
+}
+
+
+]

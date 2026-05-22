@@ -1,0 +1,6 @@
+/.python-version
+/.venv
+/sample_data
+*/__pycache__/
+results/*
+.env
